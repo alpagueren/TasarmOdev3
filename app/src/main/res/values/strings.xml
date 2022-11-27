@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Online Cafem</string>
+
+    //Projede Kullanılacak Yazılar
+    <string name="toolbarYazı">Online Cafem</string>
+    <string name="menü">Menüye Gidelim -></string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="kampanyalar">Kampanyalar</string>
+    <string name="waffle">Waffle</string>
+    <string name="onerilen">Önerilen</string>
+
+    // Projede Önerilenlere Yazılacak Sözler
+    <string name="waffleSöz">Waffılımız Sanki En Sevdiğiniz Yapmış \n Gibi...</string>
+</resources>
